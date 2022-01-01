@@ -1,3 +1,4 @@
+"""this code helps us to predict the no of omicron cases"""  
 import pandas as vp
 import numpy as np
 import matplotlib.pyplot as plt
